@@ -37,13 +37,16 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Project name</a>
+                <a class="navbar-brand" href="#">psAppLike</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="/users">Users</a></li>
+                    <li><a href="/friends">Friends</a></li>
+                    <li><a href="/chats">Chats</a></li>
+                    <li><a href="/games">Games</a></li>
+                    <li><a href="/user_games">User Games</a></li>
+                    <li><a href="/ranks">Ranks</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
