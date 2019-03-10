@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "laralib/l5scaffold": "^1.0"
+    }
+}
