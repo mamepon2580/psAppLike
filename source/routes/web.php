@@ -15,3 +15,10 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::resource('users', 'UserController');
+Route::resource('chats', 'ChatController');
+Route::resource('friends', 'FriendController');
+Route::resource('games', 'GameController');
+Route::resource('user_games', 'User_gameController');
+Route::resource('ranks', 'RankController');
